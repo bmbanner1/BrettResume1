@@ -1,89 +1,74 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Brett Banner's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+
+# Brett Banner
+
+Data Analyst
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="brett.banner2020@gmail.com">brett.banner2020@gmail.com</a> <!-- Add your own email here -->
+| <a href="https://github.com/bmbanner/Brett-Resume">Brett's Data Science</a> <!-- Change this to a name for your repository -->
+| <a href="https://www.linkedin.com/in/brett-banner/">LinkedIn</a>
 </div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`Expected 2023`
 
-- Full academic scholarship with 4.0 GPA
+**Brigham Young University - Idaho**, Rexburg, ID
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
+- Full academic scholarship 3.95 Major GPA
+- Completed several research and analytical classes
 
 ## Related Experience
 
-### Internships
+### Course Specialist Intern
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`Apr 2021 - Jul 2021`
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+**Stukent, INC.**, Rexburg, ID
 
-### Data Science Lead
+- Worked to build relationships with and solve teaching problems for hundreds of professors, driving more than $14,000 in revenue for the company
+- Advised professors in selecting courseware/simulations best suited for their courses
+- Enhanced intern training process through recording of successful calls with clients
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+### Transportation and Logistics Specialist
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+`May 2022 - Aug 2022`
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+**Holland America / Princess Cruises**, Alaska
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+- Managed safe and timely transportation of thousands of guests over the summer
+- Counseled with supervisors on transportation routes frequently
+- Prevented thousands of dollars of vehicle damage from thorough inspection of buses
 
-### Data Science Consulting Team
+### Academic Advisor and TA
 
-`January 2027 - April 2027`
-__Imagine Learning__
+`Oct 2021 - Apr 2022`
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+**BYU-Idaho**, Rexburg, Idaho
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
+- Exercised meticulous attention to detail in grading all assignments of 15 students for the semester
+- Provided feedback to students to strengthen their email marketing skills
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2018-2020`
 
+**Service Missionary**, Alaska
 
-`2023-2025`
-__Service Missionary__, South Africa
+- Booked over 40 flights for associates and coordinated 190 travel itineraries every 6 weeks
+- Doubled the standard KPI's as a result of directing multiple teams of associates to use more effective approaches in teaching 
 
+## Analytical Skills and Technical Competencies
 
+- Motivational Training
+- SQL, Python, R
+- Advanced Excel Functions
+- Dashboard programs like Power BI and Tableau
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: 4/1/2023 -->
